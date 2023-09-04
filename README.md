@@ -3,7 +3,9 @@
 ```
 vmslocalhost.py:
 ```
-flask webserver that should run server side, it will save the oautheObject to: 
+flask webserver that should run server side, add your clientId and secret.
+
+Default redirect URI is set to HTTP://127.0.0.1:3333/ and it will save the oautheObject to: 
 ```
 {userId}_access_response.json
 ```
