@@ -21,8 +21,8 @@ This file will contain:
 }
 ```
 
-When you start this server it will start at: HTTP://127.0.0.1:3333
-It will redirect you to https://auth.eagleeyenetworks.com
+When you start this server it will start at: HTTP://127.0.0.1:3333.
+It will redirect you to https://auth.eagleeyenetworks.com.
 IMPORTANT: NEVER SHARE THE REFRESH TOKEN, THIS SHOULD BE SECURELY STORED SERVER-SIDE
 
 ```
